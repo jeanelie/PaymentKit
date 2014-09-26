@@ -10,6 +10,7 @@
 #define DarkGreyColor RGB(0,0,0)
 #define RedColor RGB(253,0,17)
 #define DefaultBoldFont [UIFont boldSystemFontOfSize:17]
+#define DefaultFont [UIFont systemFontOfSize:15]
 
 #define kPTKViewPlaceholderViewAnimationDuration 0.25
 
